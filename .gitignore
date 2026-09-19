@@ -1,0 +1,18 @@
+# Secret keys — NEVER commit this
+.env
+
+# Virtual environment — no need to commit 50,000 library files
+venv/
+
+# ChromaDB persisted vector store (generated, not source)
+chroma_db/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# OS junk
+.DS_Store
+Thumbs.db
