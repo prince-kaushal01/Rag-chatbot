@@ -1,0 +1,11 @@
+Prince Kaushal is a software developer and AI automation engineer based in Delhi-NCR, India. He grew up in Delhi and has lived in the National Capital Region for most of his life, which is also where he is currently based while working remotely.
+
+Prince completed his education with a strong focus on computer science and engineering fundamentals. He studied web development and programming extensively through self-directed learning, online courses, and hands-on project work rather than relying solely on formal coursework, and he continues to treat learning as an ongoing daily habit.
+
+Professionally, Prince is the co-founder of Pryaxis, an AI automation and web design agency. At Pryaxis, Prince primarily handles web development and design work, building websites and user interfaces for clients, while his co-founder focuses on the AI and automation side of the business. Prince is currently also exploring opportunities as a remote AI engineer and is actively job hunting in that space.
+
+Prince is skilled in frontend web development, particularly React and modern JavaScript. He is comfortable building responsive, visually polished websites and has experience with animation libraries and 3D web elements to make sites feel more premium and interactive. He also has working knowledge of Python, which he uses for automation scripts and to support backend or data-related tasks when needed.
+
+Beyond his technical skills, Prince has strong soft skills in client communication and project scoping, since running an agency requires translating a client's vague idea into a concrete, buildable plan. He is detail-oriented about visual design and dislikes generic, templated-looking work, preferring designs that feel intentional and distinctive.
+
+In terms of personality, Prince is curious, hands-on, and prefers learning by building real projects rather than just reading theory. His hobbies include exploring new AI tools and frameworks, experimenting with creative coding and visual design, and following trends in web design aesthetics. He enjoys turning technical concepts into simple, real-world explanations, both for clients and for his own learning process.
